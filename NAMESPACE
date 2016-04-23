@@ -1,0 +1,14 @@
+exportPattern("^[[:alpha:]]+")
+exportMethods(
+    "callsleavingqueue",
+    "exphit",
+    "finddeclined",
+    "findpi",
+    "findpicontin",
+    "findq",
+    "rowsb",
+    "stn" 
+)
+exportClasses(
+    "mc" 
+)

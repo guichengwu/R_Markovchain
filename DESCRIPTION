@@ -1,0 +1,11 @@
+Package: cranmc
+Type: Package
+Title: discrete and continuous time markov chain
+Version: 1.0
+Date: 2016-02-02
+Author: Guicheng Wu, Eric Sturzinger, Rafael Braz Reboucas Lourenco
+Maintainer: Guicheng Wu <gchwu@ucdavis.edu>
+Description: In the mc package, we deal with both discrete time markov chain and continuous time markov chain.
+License: GPL-2
+NeedsCompilation: no
+Packaged: 2016-02-03 05:01:13 UTC; guichengwu
